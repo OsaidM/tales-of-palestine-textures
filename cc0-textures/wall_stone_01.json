@@ -1,0 +1,15 @@
+{
+  "name": "wall_stone_01",
+  "source": "procedural",
+  "license": "cc0",
+  "version": "0.1.0",
+  "status": "draft",
+  "page": "C1_Wall",
+  "prompt": "procedural wall_stone_01 texture",
+  "tool": "procedural",
+  "created_at": "2026-10-18T17:30:00",
+  "file_paths": {
+    "texture": "assets/textures/wall_stone_01.png"
+  },
+  "qa_report": {}
+}
